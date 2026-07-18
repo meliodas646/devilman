@@ -1,5 +1,4 @@
 {
   "version": "1.0.0",
-  "modpack": "modpack.zip",
-  "news": "news.json"
+  "download": "mods.zip"
 }
